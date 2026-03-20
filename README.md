@@ -1,4 +1,14 @@
-<h1 align="left">Full Stack developer 💻 | Hi 👋 My name is Leonardo Tosin | React + PHP 🚀</h1>
+<h1 align="left">Full Stack developer 💻 | Hi 👋 My name is Leonardo Tosin | React + PHP | Low-Code: Microsoft Power Platform 🚀</h1>
+
+
+<h2>degrees:</h2>
+<p>technologist in internet systems - UTFPR (on-going) </p>
+<p>systems development technician - SENAIPR</p>
+
+<h2>experiences:</h3>
+<h3>💻 Software Development Intern @ EloGroup (Mar 2026 – Present | Remote, São Paulo)</h3>
+Currently interning in software development, contributing to corporate platforms by building features with microsoft power platform, integrating SQL databases, validating prototypes with clients, and supporting users in the adoption of new solutions.
+
 
 ###
 
